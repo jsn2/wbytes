@@ -10,5 +10,3 @@ An example usage with a source file (containing the bytes to write) named 'input
 
 An example using PowerShell to pipe stdout of 'Write-Output' into stdin of vbytes:
 - Write-Output 'A1B2C3' | vbytes output
-
-![image](https://user-images.githubusercontent.com/72470804/195346351-699313b3-a313-4224-8586-816d7a959924.png)

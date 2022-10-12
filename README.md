@@ -12,4 +12,5 @@ An example using PowerShell to pipe stdout of 'Write-Output' into stdin of wbyte
 - Write-Output 'A1B2C3' | .\wbytes output
 
 Screenshots:
+
 ![image](https://user-images.githubusercontent.com/72470804/195349101-da459e1f-f9ba-4006-8ed9-75d52ea56583.png)
